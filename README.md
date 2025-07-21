@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Satya Abdul Halim Bahtiar
 
-### 💡 Data Enthusiast | 🧠 AI & Machine Learning | 💻 NLP & Computer Vision
+### 💡 Data Science | 🧠 AI & Machine Learning | 💻 NLP & Computer Vision
 
 ---
 
@@ -9,16 +9,40 @@
 
 ## 🔧 Technical Skills & Focus Areas
 
-### **🧠 Data Science & Machine Learning**
-  - Python
-  - Exploratory Data Analysis (EDA)
-  - Data Visualization (Matplotlib, Seaborn)
-  - SQL for Analytics
+### 📊 Data Science
 
-### 🔹 Computer Vision
-- Real-time face, hand, and emotion detection
-- OpenCV, MediaPipe, DeepFace
-- Human-computer interaction use cases
+I use data as a foundation to generate insights, support decisions, and design impactful strategies.
+
+- Skilled in **data cleaning, transformation, and analysis** using Python (Pandas, NumPy)
+- Perform **Exploratory Data Analysis (EDA)** and hypothesis testing for business understanding
+- Visualize trends and KPIs using **Matplotlib** and **Seaborn**
+- Proficient in **SQL** for analytics, cohort analysis, and retention tracking
+- Build storytelling around data to communicate insights clearly to both technical and non-technical audiences
+
+---
+
+### 🤖 AI & Machine Learning
+
+I build intelligent systems that learn from data and automate decision-making processes.
+
+- Experience with **supervised & unsupervised learning**: classification, regression, clustering
+- Familiar with **model evaluation**, tuning, and feature engineering
+- Work with libraries like **Scikit-Learn**, **XGBoost**, and **joblib** for model deployment
+- Design simple pipelines for automating analytics and prediction tasks
+
+---
+
+### 💬 NLP & Computer Vision
+
+I integrate **Natural Language Processing** and **Computer Vision** to enhance human-computer interaction.
+
+- Develop real-time applications using **OpenCV**, **MediaPipe**, and **DeepFace**
+- Projects include:  
+  ✋ Hand gesture recognition  
+  😊 Facial emotion detection  
+  🧑‍💻 Face recognition with camera feed  
+- Experience with **text summarization**, **classification**, and **chatbot logic** using LLMs (e.g., IBM Granite, GPT)
+- Interested in using AI to improve communication systems, educational tools, and accessibility
 
 ---
 
@@ -48,3 +72,5 @@ I'm open to opportunities in **AI & Machine Learning**, **Human Computer/Robot I
 Feel free to explore my repositories or reach out!
 
 ---
+
+
