@@ -56,6 +56,9 @@ Detects human emotions from facial expressions using **DeepFace**, a lightweight
 ### 🧑‍💻 [FaceRecognition-opencv](https://github.com/satyaabdul/FaceRecognition-opencv)  
 Implements face detection and recognition using **OpenCV Haar Cascades** — a foundational project for surveillance and access systems.
 
+### 🏥 [Clustering Analysis of Healthcare Facilities in the Special Region of Yogyakarta (DIY)](https://github.com/satyaabdul/Clustering-Analysis-of-Healthcare-Facilities)
+spatial clustering analysis of healthcare facilities in the Special Region of Yogyakarta (DIY), Indonesia. Using **OpenStreetMap data (via OSMnx)** and **KMeans** clustering
+
 ---
 
 ## 🔗 Connect With Me
